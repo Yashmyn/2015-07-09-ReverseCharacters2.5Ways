@@ -1,0 +1,6 @@
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-09-ReverseCharacters2.5Ways\2015-07-09-ReverseCharacters2.5Ways\bin\Debug\2015-07-09-ReverseCharacters2.5Ways.exe.config
+C:\Users\Grand\documents\visual studio 2013\Projects\2015-07-09-ReverseCharacters2.5Ways\2015-07-09-ReverseCharacters2.5Ways\bin\Debug\2015-07-09-ReverseCharacters2.5Ways.exe
+C:\Users\Grand\documents\visual studio 2013\Projects\2015-07-09-ReverseCharacters2.5Ways\2015-07-09-ReverseCharacters2.5Ways\bin\Debug\2015-07-09-ReverseCharacters2.5Ways.pdb
+C:\Users\Grand\documents\visual studio 2013\Projects\2015-07-09-ReverseCharacters2.5Ways\2015-07-09-ReverseCharacters2.5Ways\obj\Debug\2015-07-09-ReverseCharacters2.5Ways.csprojResolveAssemblyReference.cache
+C:\Users\Grand\documents\visual studio 2013\Projects\2015-07-09-ReverseCharacters2.5Ways\2015-07-09-ReverseCharacters2.5Ways\obj\Debug\2015-07-09-ReverseCharacters2.5Ways.exe
+C:\Users\Grand\documents\visual studio 2013\Projects\2015-07-09-ReverseCharacters2.5Ways\2015-07-09-ReverseCharacters2.5Ways\obj\Debug\2015-07-09-ReverseCharacters2.5Ways.pdb
